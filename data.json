@@ -1,0 +1,914 @@
+{
+  "nodes": [
+    {
+      "id": "acidity", "group": 5,
+      "pieChart" : [
+        { "color": 5, "percent": 100}
+      ]
+    },
+    {
+      "id": "addictive", "group": 2,
+      "pieChart" : [
+        { "color": 1, "percent": 12.5 },
+        { "color": 2, "percent": 12.5 },
+        { "color": 3, "percent": 12.5 },
+		{ "color": 4, "percent": 12.5 },
+        { "color": 5, "percent": 12.5 },
+        { "color": 7, "percent": 12.5 },
+		{ "color": 8, "percent": 12.5 },
+        { "color": 9, "percent": 12.5 }
+      ]
+    },
+    {
+      "id": "alive", "group": 3,
+      "pieChart" : [
+        { "color": 1, "percent": 33.33 },
+        { "color": 7, "percent": 33.33 },
+        { "color": 8, "percent": 33.34 }
+      ]
+    },
+    {
+      "id": "aromatic", "group": 4,
+      "pieChart" : [
+        { "color": 3, "percent": 50 },
+        { "color": 9, "percent": 50 }
+      ]
+    },
+    {
+      "id": "assertive", "group": 1,
+      "pieChart" : [
+        { "color": 3, "percent": 33.33 },
+		{ "color": 8, "percent": 33.33 },
+		{ "color": 9, "percent": 33.34 }
+      ]
+    },
+    {
+      "id": "attractive", "group": 1,
+      "pieChart" : [
+        { "color": 1, "percent": 25 },
+		{ "color": 5, "percent": 25 },
+		{ "color": 9, "percent": 25 },
+		{ "color": 6, "percent": 25 }
+      ]
+    },
+    {
+      "id": "bold", "group": 2,
+      "pieChart" : [
+        { "color": 2, "percent": 100 }
+      ]
+    },
+    {
+      "id": "bountiful", "group": 3,
+      "pieChart" : [
+        { "color": 4, "percent": 20 },
+        { "color": 5, "percent": 20 },
+		{ "color": 7, "percent": 20 },
+        { "color": 8, "percent": 20 },
+		{ "color": 9, "percent": 20 }
+      ]
+    },
+    {
+      "id": "bramble", "group": 7,
+      "pieChart" : [
+        { "color": 7, "percent": 100 }
+      ]
+    },
+	{
+      "id": "brown", "group": 5,
+      "pieChart" : [
+        { "color": 5, "percent": 100 }
+      ]
+    },
+	{
+      "id": "burly", "group": 1,
+      "pieChart" : [
+        { "color": 2, "percent": 25 },
+		{ "color": 6, "percent": 25 },
+		{ "color": 7, "percent": 25 },
+		{ "color": 9, "percent": 25 }
+      ]
+    },
+	 {
+      "id": "cardamom", "group": 4,
+      "pieChart" : [
+        { "color": 5, "percent": 50 },
+        { "color": 7, "percent": 50 }
+      ]
+    },
+	{
+      "id": "classic", "group": 5,
+      "pieChart" : [
+        { "color": 2, "percent": 100 }
+      ]
+    },
+	{
+      "id": "complete", "group": 5,
+      "pieChart" : [
+        { "color": 6, "percent": 100 }
+      ]
+    },
+	{
+      "id": "complex", "group": 5,
+      "pieChart" : [
+        { "color": 5, "percent": 100 }
+      ]
+    },
+	{
+      "id": "considerable", "group": 5,
+      "pieChart" : [
+        { "color": 5, "percent": 100 }
+      ]
+    },
+	 {
+      "id": "coveted", "group": 4,
+      "pieChart" : [
+        { "color": 8, "percent": 50 },
+        { "color": 9, "percent": 50 }
+      ]
+    },
+	 {
+      "id": "creamy", "group": 4,
+      "pieChart" : [
+        { "color": 8, "percent": 100 }
+      ]
+    },
+	 {
+      "id": "delicious", "group": 4,
+      "pieChart" : [
+        { "color": 5, "percent": 100 }
+      ]
+    }, 
+	{
+      "id": "dense", "group": 4,
+      "pieChart" : [
+        { "color": 3, "percent": 100 }
+      ]
+    },
+	{
+      "id": "dominant", "group": 4,
+      "pieChart" : [
+        { "color": 4, "percent": 50 },
+        { "color": 6, "percent": 50 }
+      ]
+    },
+	{
+      "id": "dried", "group": 4,
+      "pieChart" : [
+        { "color": 4, "percent": 50 },
+		{ "color": 7, "percent": 50 }
+      ]
+    },
+	{
+      "id": "enjoyment", "group": 4,
+      "pieChart" : [
+        { "color": 2, "percent": 100 }
+      ]
+    },
+	{
+      "id": "eucalyptus", "group": 4,
+      "pieChart" : [
+        { "color": 7, "percent": 100 }
+      ]
+    },
+	{
+      "id": "exotic", "group": 4,
+      "pieChart" : [
+        { "color": 5, "percent": 100 }
+      ]
+    },
+	{
+      "id": "expensive", "group": 4,
+      "pieChart" : [
+        { "color": 2, "percent": 100 }
+      ]
+    },
+	  {
+      "id": "exuberant", "group": 1,
+      "pieChart" : [
+        { "color": 1, "percent": 33.33 },
+		{ "color": 3, "percent": 33.33 },
+		{ "color": 9, "percent": 33.34 }
+      ]
+    },
+	{
+      "id": "fine", "group": 4,
+      "pieChart" : [
+        { "color": 5, "percent": 100 }
+      ]
+    },
+	{
+      "id": "flavorful", "group": 4,
+      "pieChart" : [
+        { "color": 8, "percent": 100 }
+      ]
+    },
+		{
+      "id": "floral", "group": 4,
+      "pieChart" : [
+        { "color": 1, "percent": 100 }
+      ]
+    },
+		{
+      "id": "fresh", "group": 4,
+      "pieChart" : [
+        { "color": 3, "percent": 100 }
+      ]
+    },
+	{
+      "id": "graham", "group": 4,
+      "pieChart" : [
+        { "color": 3, "percent": 50 },
+		{ "color": 9, "percent": 50 }
+      ]
+    },
+	{
+      "id": "grilled", "group": 4,
+      "pieChart" : [
+        { "color": 4, "percent": 50 },
+		{ "color": 7, "percent": 50 }
+      ]
+    },
+	{
+      "id": "grippy", "group": 4,
+      "pieChart" : [
+        { "color": 3, "percent": 50 },
+		{ "color": 7, "percent": 50 }
+      ]
+    },
+	{
+      "id": "hazelnut", "group": 4,
+      "pieChart" : [
+        { "color": 1, "percent": 50 },
+		{ "color": 3, "percent": 50 }
+      ]
+    },
+	{
+      "id": "hedonistic", "group": 1,
+      "pieChart" : [
+        { "color": 5, "percent": 33.33 },
+		{ "color": 2, "percent": 33.33 },
+		{ "color": 7, "percent": 33.34 }
+      ]
+    },
+	{
+      "id": "herb", "group": 4,
+      "pieChart" : [
+        { "color": 7, "percent": 100 }
+      ]
+    },
+	{
+      "id": "honeyed", "group": 4,
+      "pieChart" : [
+        { "color": 1, "percent": 50 },
+		{ "color": 8, "percent": 50 }
+      ]
+    },
+	{
+      "id": "ideal", "group": 1,
+      "pieChart" : [
+        { "color": 4, "percent": 33.33 },
+		{ "color": 8, "percent": 33.33 },
+		{ "color": 9, "percent": 33.34 }
+      ]
+    },
+	{
+      "id": "intriguing", "group": 4,
+      "pieChart" : [
+        { "color": 7, "percent": 100 }
+      ]
+    },
+	{
+      "id": "italian", "group": 1,
+      "pieChart" : [
+        { "color": 3, "percent": 33.33 },
+		{ "color": 7, "percent": 33.33 },
+		{ "color": 9, "percent": 33.34 }
+      ]
+    },
+	{
+      "id": "juniper", "group": 4,
+      "pieChart" : [
+        { "color": 3, "percent": 50 },
+		{ "color": 7, "percent": 50 }
+      ]
+    },
+	{
+      "id": "leathery", "group": 4,
+      "pieChart" : [
+        { "color": 9, "percent": 100 }
+      ]
+    },
+	{
+      "id": "lemony", "group": 4,
+      "pieChart" : [
+        { "color": 8, "percent": 100 }
+      ]
+    },
+	{
+      "id": "light", "group": 4,
+      "pieChart" : [
+        { "color": 1, "percent": 100 }
+      ]
+    },
+	{
+      "id": "lush", "group": 4,
+      "pieChart" : [
+        { "color": 6, "percent": 100 }
+      ]
+    },
+	{
+      "id": "luxurious", "group": 1,
+      "pieChart" : [
+        { "color": 1, "percent": 33.33 },
+		{ "color": 3, "percent": 33.33 },
+		{ "color": 5, "percent": 33.34 }
+      ]
+    },{
+      "id": "mellow", "group": 1,
+      "pieChart" : [
+        { "color": 2, "percent": 33.33 },
+		{ "color": 5, "percent": 33.33 },
+		{ "color": 7, "percent": 33.34 }
+      ]
+    },
+	{
+      "id": "midpalate", "group": 4,
+      "pieChart" : [
+        { "color": 7, "percent": 50 },
+		{ "color": 9, "percent": 50 }
+      ]
+    },
+	{
+      "id": "mocha", "group": 4,
+      "pieChart" : [
+        { "color": 5, "percent": 100 }
+      ]
+    },
+	{
+      "id": "monumental", "group": 4,
+      "pieChart" : [
+        { "color": 2, "percent": 50 },
+		{ "color": 9, "percent": 50 }
+      ]
+    },
+	{
+      "id": "native", "group": 4,
+      "pieChart" : [
+        { "color": 1, "percent": 50 },
+		{ "color": 9, "percent": 50 }
+      ]
+    },
+	{
+      "id": "nectarine", "group": 4,
+      "pieChart" : [
+        { "color": 1, "percent": 100 }
+      ]
+    },
+	{
+      "id": "nervy", "group": 4,
+      "pieChart" : [
+        { "color": 7, "percent": 100 }
+      ]
+    },
+		{
+      "id": "nonvintage", "group": 4,
+      "pieChart" : [
+        { "color": 9, "percent": 100 }
+      ]
+    },
+		{
+      "id": "nutmeg", "group": 4,
+      "pieChart" : [
+        { "color": 5, "percent": 100 }
+      ]
+    },
+	{
+      "id": "oregano", "group": 4,
+      "pieChart" : [
+        { "color": 1, "percent": 50 },
+		{ "color": 7, "percent": 50 }
+      ]
+    },
+	{
+      "id": "peachy", "group": 3,
+      "pieChart" : [
+        { "color": 1, "percent": 20 },
+        { "color": 4, "percent": 20 },
+		{ "color": 7, "percent": 20 },
+        { "color": 8, "percent": 20 },
+		{ "color": 9, "percent": 20 }
+      ]
+    },
+	{
+      "id": "peppercorn", "group": 4,
+      "pieChart" : [
+        { "color": 7, "percent": 100 }
+      ]
+    },
+	{
+      "id": "perennial", "group": 3,
+      "pieChart" : [
+        { "color": 3, "percent": 16.66 },
+        { "color": 5, "percent": 16.66 },
+		{ "color": 2, "percent": 16.66 },
+        { "color": 7, "percent": 16.66 },
+		{ "color": 8, "percent": 16.66 },
+		{ "color": 9, "percent": 16.67 }
+      ]
+    },
+	{
+      "id": "perfumed", "group": 3,
+      "pieChart" : [
+        { "color": 2, "percent": 14.28 },
+        { "color": 3, "percent": 14.28 },
+		{ "color": 4, "percent": 14.28 },
+        { "color": 6, "percent": 14.28 },
+		{ "color": 7, "percent": 14.28 },
+		{ "color": 8, "percent": 14.28 },
+		{ "color": 9, "percent": 14.28 }
+      ]
+    },
+	{
+      "id": "pine", "group": 4,
+      "pieChart" : [
+        { "color": 7, "percent": 100 }
+      ]
+    },
+	{
+      "id": "pithy", "group": 4,
+      "pieChart" : [
+        { "color": 7, "percent": 50 },
+		{ "color": 8, "percent": 50 }
+      ]
+    },
+	{
+      "id": "playful", "group": 1,
+      "pieChart" : [
+        { "color": 3, "percent": 25 },
+		{ "color": 7, "percent": 25 },
+		{ "color": 8, "percent": 25 },
+		{ "color": 9, "percent": 25 }
+      ]
+    },
+	{
+      "id": "pleasant", "group": 4,
+      "pieChart" : [
+        { "color": 4, "percent": 100 }
+      ]
+    },
+	{
+      "id": "poached", "group": 1,
+      "pieChart" : [
+        { "color": 4, "percent": 25 },
+		{ "color": 7, "percent": 25 },
+		{ "color": 8, "percent": 25 },
+		{ "color": 9, "percent": 25 }
+      ]
+    },
+	{
+      "id": "red", "group": 4,
+      "pieChart" : [
+        { "color": 5, "percent": 100 }
+      ]
+    },
+	{
+      "id": "rhubarb", "group": 4,
+      "pieChart" : [
+        { "color": 7, "percent": 100 }
+      ]
+    },
+	{
+      "id": "rich", "group": 4,
+      "pieChart" : [
+        { "color": 5, "percent": 100 }
+      ]
+    },
+	{
+      "id": "rosemary", "group": 4,
+      "pieChart" : [
+        { "color": 1, "percent": 50 },
+		{ "color": 7, "percent": 50 }
+      ]
+    },
+	{
+      "id": "russian", "group": 4,
+      "pieChart" : [
+        { "color": 5, "percent": 100 }
+      ]
+    },
+	{
+      "id": "savory", "group": 4,
+      "pieChart" : [
+        { "color": 1, "percent": 50 },
+		{ "color": 7, "percent": 50 }
+      ]
+    },
+	{
+      "id": "seductive", "group": 1,
+      "pieChart" : [
+        { "color": 1, "percent": 33.33 },
+		{ "color": 3, "percent": 33.33 },
+		{ "color": 5, "percent": 33.34 }
+      ]
+    },
+	{
+      "id": "sharp", "group": 4,
+      "pieChart" : [
+        { "color": 4, "percent": 100 }
+      ]
+    },
+	{
+      "id": "silky", "group": 4,
+      "pieChart" : [
+        { "color": 5, "percent": 100 }
+      ]
+    },
+	{
+      "id": "smoky", "group": 4,
+      "pieChart" : [
+        { "color": 6, "percent": 100 }
+      ]
+    },
+	{
+      "id": "soft", "group": 4,
+      "pieChart" : [
+        { "color": 4, "percent": 100 }
+      ]
+    },
+	{
+      "id": "smooth", "group": 4,
+      "pieChart" : [
+        { "color": 4, "percent": 50 },
+		{ "color": 6, "percent": 50 }
+      ]
+    },
+	{
+      "id": "sorbet", "group": 4,
+      "pieChart" : [
+        { "color": 8, "percent": 100 }
+      ]
+    },
+	{
+      "id": "sour", "group": 4,
+      "pieChart" : [
+        { "color": 4, "percent": 50 },
+		{ "color": 7, "percent": 50 }
+      ]
+    },
+	{
+      "id": "strong", "group": 4,
+      "pieChart" : [
+        { "color": 6, "percent": 50 },
+		{ "color": 7, "percent": 50 }
+      ]
+    },
+	{
+      "id": "sublime", "group": 1,
+      "pieChart" : [
+        { "color": 5, "percent": 25 },
+		{ "color": 7, "percent": 25 },
+		{ "color": 8, "percent": 25 },
+		{ "color": 9, "percent": 25 }
+      ]
+    },
+	{
+      "id": "subtle", "group": 4,
+      "pieChart" : [
+        { "color": 7, "percent": 100 }
+      ]
+    },
+	{
+      "id": "surprising", "group": 1,
+      "pieChart" : [
+        { "color": 2, "percent": 33.33 },
+		{ "color": 6, "percent": 33.33 },
+		{ "color": 9, "percent": 33.34 }
+      ]
+    },
+	{
+      "id": "sweet", "group": 4,
+      "pieChart" : [
+        { "color": 5, "percent": 100 }
+      ]
+    },
+	{
+      "id": "tangy", "group": 4,
+      "pieChart" : [
+        { "color": 1, "percent": 50 },
+		{ "color": 7, "percent": 50 }
+      ]
+    },
+	{
+      "id": "tasty", "group": 4,
+      "pieChart" : [
+        { "color": 1, "percent": 100 }
+      ]
+    },
+	{
+      "id": "thin", "group": 4,
+      "pieChart" : [
+        { "color": 4, "percent": 100 }
+      ]
+    },
+	{
+      "id": "tobacco", "group": 4,
+      "pieChart" : [
+        { "color": 7, "percent": 100 }
+      ]
+    },
+	{
+      "id": "traditional", "group": 4,
+      "pieChart" : [
+        { "color": 9, "percent": 100 }
+      ]
+    },
+	{
+      "id": "unfussy", "group": 3,
+      "pieChart" : [
+        { "color": 4, "percent": 20 },
+        { "color": 6, "percent": 20 },
+		{ "color": 7, "percent": 20 },
+        { "color": 8, "percent": 20 },
+		{ "color": 9, "percent": 20 }
+      ]
+    },
+	{
+      "id": "versatile", "group": 1,
+      "pieChart" : [
+        { "color": 4, "percent": 33.33 },
+		{ "color": 7, "percent": 33.33 },
+		{ "color": 8, "percent": 33.34 }
+      ]
+    },
+	{
+      "id": "vibrant", "group": 1,
+      "pieChart" : [
+        { "color": 1, "percent": 33.33 },
+		{ "color": 5, "percent": 33.33 },
+		{ "color": 8, "percent": 33.34 }
+      ]
+    },
+	{
+      "id": "vivid", "group": 1,
+      "pieChart" : [
+        { "color": 7, "percent": 33.33 },
+		{ "color": 8, "percent": 33.33 },
+		{ "color": 9, "percent": 33.34 }
+      ]
+    },
+	{
+      "id": "whole", "group": 4,
+      "pieChart" : [
+        { "color": 9, "percent": 100 }
+      ]
+    },
+	{
+      "id": "Heitz", "group": 4,
+      "pieChart" : [
+        { "color": 1, "percent": 100 }
+      ]
+    },
+	{
+      "id": "Brandlin", "group": 4,
+      "pieChart" : [
+        { "color": 2, "percent": 100 }
+      ]
+    },
+	{
+      "id": "Andis", "group": 4,
+      "pieChart" : [
+        { "color": 3, "percent": 100 }
+      ]
+    },
+	{
+      "id": "Ironstone", "group": 4,
+      "pieChart" : [
+        { "color": 4, "percent": 100 }
+      ]
+    },
+	{
+      "id": "Roar", "group": 4,
+      "pieChart" : [
+        { "color": 5, "percent": 100 }
+      ]
+    },
+	{
+      "id": "Raymond", "group": 4,
+      "pieChart" : [
+        { "color": 6, "percent": 100 }
+      ]
+    },
+	{
+      "id": "Zepaltas", "group": 4,
+      "pieChart" : [
+        { "color": 7, "percent": 100 }
+      ]
+    },
+	{
+      "id": "Navarro", "group": 4,
+      "pieChart" : [
+        { "color": 8, "percent": 100 }
+      ]
+    },
+	{
+      "id": "Parducci", "group": 4,
+      "pieChart" : [
+        { "color": 8, "percent": 100 }
+      ]
+    }
+  ],
+  "links": [
+    {"source": "mellow", "target": "Zepaltas", "value": "0.785375274"},
+	{"source": "peachy", "target": "Zepaltas", "value": "0.744486448"},
+	{"source": "oregano", "target": "Zepaltas", "value": "0.743740609"},
+	{"source": "bramble", "target": "Zepaltas", "value": "0.728611"},
+	{"source": "intriguing", "target": "Zepaltas", "value": "0.727763369"},
+	{"source": "hedonistic", "target": "Zepaltas", "value": "0.706523143"},
+	{"source": "eucalyptus", "target": "Zepaltas", "value": "0.678898883"},
+	{"source": "grippy", "target": "Zepaltas", "value": "0.675707591"},
+	{"source": "perfumed", "target": "Zepaltas", "value": "0.663232708"},
+	{"source": "alive", "target": "Zepaltas", "value": "0.650581107"},
+	{"source": "dried", "target": "Zepaltas", "value": "0.650309918"},
+	{"source": "juniper", "target": "Zepaltas", "value": "0.645186947"},
+	{"source": "burly", "target": "Zepaltas", "value": "0.632203489"},
+	{"source": "unfussy", "target": "Zepaltas", "value": "0.626781836"},
+	{"source": "rosemary", "target": "Zepaltas", "value": "0.621232899"},
+	{"source": "cardamom", "target": "Zepaltas", "value": "0.618738186"},
+	{"source": "vivid", "target": "Zepaltas", "value": "0.608293298"},
+	{"source": "midpalate", "target": "Zepaltas", "value": "0.593161997"},
+	{"source": "perennial", "target": "Zepaltas", "value": "0.589224755"},
+	{"source": "rhubarb", "target": "Zepaltas", "value": "0.588384556"},
+	{"source": "versatile", "target": "Zepaltas", "value": "0.5836207"},
+	{"source": "peppercorn", "target": "Zepaltas", "value": "0.5621382"},
+	{"source": "tangy", "target": "Zepaltas", "value": "0.561329349"},
+	{"source": "addictive", "target": "Zepaltas", "value": "0.561329349"},
+	{"source": "grilled", "target": "Zepaltas", "value": "0.561180679"},
+	{"source": "pithy", "target": "Zepaltas", "value": "0.56079139"},
+	{"source": "strong", "target": "Zepaltas", "value": "0.536637657"},
+	{"source": "herb", "target": "Zepaltas", "value": "0.531913566"},
+	{"source": "nervy", "target": "Zepaltas", "value": "0.529196027"},
+	{"source": "pine", "target": "Zepaltas", "value": "0.526367654"},
+	{"source": "poached", "target": "Zepaltas", "value": "0.526367654"},
+	{"source": "tobacco", "target": "Zepaltas", "value": "0.514375274"},
+	{"source": "subtle", "target": "Zepaltas", "value": "0.506447049"},
+	{"source": "sublime", "target": "Zepaltas", "value": "0.506447049"},
+	{"source": "italian", "target": "Zepaltas", "value": "0.506447049"},
+	{"source": "savory", "target": "Zepaltas", "value": "0.504989913"},
+	{"source": "bountiful", "target": "Zepaltas", "value": "0.504989913"},
+	{"source": "playful", "target": "Zepaltas", "value": "0.504989913"},
+	{"source": "sour", "target": "Zepaltas", "value": "0.504749189"},
+	{"source": "peachy", "target": "Navarro", "value": "0.675393116"},
+	{"source": "versatile", "target": "Navarro", "value": "0.659497425"},
+	{"source": "poached", "target": "Navarro", "value": "0.654875714"},
+	{"source": "ideal", "target": "Navarro", "value": "0.632232998"},
+	{"source": "honeyed", "target": "Navarro", "value": "0.612235896"},
+	{"source": "assertive", "target": "Navarro", "value": "0.596034811"},
+	{"source": "bountiful", "target": "Navarro", "value": "0.583713831"},
+	{"source": "addictive", "target": "Navarro", "value": "0.578860154"},
+	{"source": "perfumed", "target": "Navarro", "value": "0.560389815"},
+	{"source": "alive", "target": "Navarro", "value": "0.555416108"},
+	{"source": "vivid", "target": "Navarro", "value": "0.544776491"},
+	{"source": "pithy", "target": "Navarro", "value": "0.542602219"},
+	{"source": "flavorful", "target": "Navarro", "value": "0.540498557"},
+	{"source": "sublime", "target": "Navarro", "value": "0.53709958"},
+	{"source": "playful", "target": "Navarro", "value": "0.536598922"},
+	{"source": "sorbet", "target": "Navarro", "value": "0.532730231"},
+	{"source": "vibrant", "target": "Navarro", "value": "0.519656484"},
+	{"source": "unfussy", "target": "Navarro", "value": "0.519656484"},
+	{"source": "coveted", "target": "Navarro", "value": "0.519656484"},
+	{"source": "perennial", "target": "Navarro", "value": "0.518663239"},
+	{"source": "creamy", "target": "Navarro", "value": "0.517102648"},
+	{"source": "lemony", "target": "Navarro", "value": "0.513156269"},
+	{"source": "unfussy", "target": "Parducci", "value": "0.725528983"},
+	{"source": "perennial", "target": "Parducci", "value": "0.641035904"},
+	{"source": "burly", "target": "Parducci", "value": "0.638086337"},
+	{"source": "assertive", "target": "Parducci", "value": "0.637549586"},
+	{"source": "nonvintage", "target": "Parducci", "value": "0.630584888"},
+	{"source": "surprising", "target": "Parducci", "value": "0.626372766"},
+	{"source": "peachy", "target": "Parducci", "value": "0.6262119"},
+	{"source": "traditional", "target": "Parducci", "value": "0.6262119"},
+	{"source": "perfumed", "target": "Parducci", "value": "0.619110846"},
+	{"source": "poached", "target": "Parducci", "value": "0.608992862"},
+	{"source": "italian", "target": "Parducci", "value": "0.601367271"},
+	{"source": "vivid", "target": "Parducci", "value": "0.601367271"},
+	{"source": "playful", "target": "Parducci", "value": "0.589334956"},
+	{"source": "addictive", "target": "Parducci", "value": "0.586094073"},
+	{"source": "leathery", "target": "Parducci", "value": "0.570437939"},
+	{"source": "bold", "target": "Parducci", "value": "0.56739995"},
+	{"source": "attractive", "target": "Parducci", "value": "0.566406198"},
+	{"source": "monumental", "target": "Parducci", "value": "0.562744222"},
+	{"source": "coveted", "target": "Parducci", "value": "0.562744222"},
+	{"source": "ideal", "target": "Parducci", "value": "0.556035104"},
+	{"source": "whole", "target": "Parducci", "value": "0.552882383"},
+	{"source": "aromatic", "target": "Parducci", "value": "0.543901766"},
+	{"source": "midpalate", "target": "Parducci", "value": "0.541305556"},
+	{"source": "native", "target": "Parducci", "value": "0.541305556"},
+	{"source": "exuberant", "target": "Parducci", "value": "0.534720698"},
+	{"source": "sublime", "target": "Parducci", "value": "0.531376643"},
+	{"source": "graham", "target": "Parducci", "value": "0.530258849"},
+	{"source": "bountiful", "target": "Parducci", "value": "0.522943769"},
+	{"source": "vibrant", "target": "Heitz", "value": "0.5978646"},
+	{"source": "hazelnut", "target": "Heitz", "value": "0.715036101"},
+	{"source": "tangy", "target": "Heitz", "value": "0.638658552"},
+	{"source": "savory", "target": "Heitz", "value": "0.533383416"},
+	{"source": "attractive", "target": "Heitz", "value": "0.596576377"},
+	{"source": "oregano", "target": "Heitz", "value": "0.614602833"},
+	{"source": "savory", "target": "Heitz", "value": "0.533383416"},
+	{"source": "attractive", "target": "Heitz", "value": "0.596576377"},
+	{"source": "native", "target": "Heitz", "value": "0.753048799"},
+	{"source": "honeyed", "target": "Heitz", "value": "0.551702336"},
+	{"source": "tasty", "target": "Heitz", "value": "0.537154253"},
+	{"source": "rosemary", "target": "Heitz", "value": "0.616980419"},
+	{"source": "oregano", "target": "Heitz", "value": "0.614602833"},
+	{"source": "luxurious", "target": "Heitz", "value": "0.586221696"},
+	{"source": "alive", "target": "Heitz", "value": "0.730215369"},
+	{"source": "exuberant", "target": "Heitz", "value": "0.547886562"},
+	{"source": "addictive", "target": "Heitz", "value": "0.942434565"},
+	{"source": "floral", "target": "Heitz", "value": "0.616401285"},
+	{"source": "light", "target": "Heitz", "value": "0.566426111"},
+	{"source": "nectarine", "target": "Heitz", "value": "0.612277687"},
+	{"source": "peachy", "target": "Heitz", "value": "0.811120679"},
+	{"source": "seductive", "target": "Heitz", "value": "0.621023726"},
+	{"source": "monumental", "target": "Brandlin", "value": "0.81455069"},
+	{"source": "burly", "target": "Brandlin", "value": "0.780517236"},
+	{"source": "surprising", "target": "Brandlin", "value": "0.686450266"},
+	{"source": "perfumed", "target": "Brandlin", "value": "0.607140358"},
+	{"source": "mellow", "target": "Brandlin", "value": "0.593390238"},
+	{"source": "expensive", "target": "Brandlin", "value": "0.502611135"},
+	{"source": "classic", "target": "Brandlin", "value": "0.533073706"},
+	{"source": "addictive", "target": "Brandlin", "value": "0.676332101"},
+	{"source": "hedonistic", "target": "Brandlin", "value": "0.588063743"},
+	{"source": "enjoyment", "target": "Brandlin", "value": "0.597881989"},
+	{"source": "perennial", "target": "Brandlin", "value": "0.759487772"},
+	{"source": "hazelnut", "target": "Andis", "value": "0.518955056"},
+	{"source": "seductive", "target": "Andis", "value": "0.505011353"},
+	{"source": "juniper", "target": "Andis", "value": "0.612146964"},
+	{"source": "perfumed", "target": "Andis", "value": "0.570744475"},
+	{"source": "perennial", "target": "Andis", "value": "0.615801133"},
+	{"source": "aromatic", "target": "Andis", "value": "0.592923672"},
+	{"source": "italian", "target": "Andis", "value": "0.61669222"},
+	{"source": "exuberant", "target": "Andis", "value": "0.533621471"},
+	{"source": "addictive", "target": "Andis", "value": "0.625680362"},
+	{"source": "playful", "target": "Andis", "value": "0.780999127"},
+	{"source": "grippy", "target": "Andis", "value": "0.696368608"},
+	{"source": "assertive", "target": "Andis", "value": "0.714620961"},
+	{"source": "graham", "target": "Andis", "value": "0.682279062"},
+	{"source": "fresh", "target": "Andis", "value": "0.527392691"},
+	{"source": "dense", "target": "Andis", "value": "0.519232487"},
+	{"source": "luxurious", "target": "Andis", "value": "0.558690163"},
+	{"source": "unfussy", "target": "Ironstone", "value": "0.705216682"},
+	{"source": "pleasant", "target": "Ironstone", "value": "0.645979532"},
+	{"source": "versatile", "target": "Ironstone", "value": "0.61241428"},
+	{"source": "perfumed", "target": "Ironstone", "value": "0.611689246"},
+	{"source": "addictive", "target": "Ironstone", "value": "0.564971355"},
+	{"source": "ideal", "target": "Ironstone", "value": "0.561329567"},
+	{"source": "dominant", "target": "Ironstone", "value": "0.561115297"},
+	{"source": "poached", "target": "Ironstone", "value": "0.55749129"},
+	{"source": "peachy", "target": "Ironstone", "value": "0.575261985"},
+	{"source": "sharp", "target": "Ironstone", "value": "0.537918655"},
+	{"source": "dried", "target": "Ironstone", "value": "0.534888848"},
+	{"source": "smooth", "target": "Ironstone", "value": "0.531143733"},
+	{"source": "thin", "target": "Ironstone", "value": "0.521177068"},
+	{"source": "grilled", "target": "Ironstone", "value": "0.520943317"},
+	{"source": "bountiful", "target": "Ironstone", "value": "0.512940946"},
+	{"source": "sour", "target": "Ironstone", "value": "0.506198771"},
+	{"source": "soft", "target": "Ironstone", "value": "0.502135991"},
+	{"source": "fine", "target": "Roar", "value": "0.507314088"},
+	{"source": "delicious", "target": "Roar", "value": "0.5463419"},
+	{"source": "complex", "target": "Roar", "value": "0.51164963"},
+	{"source": "silky", "target": "Roar", "value": "0.556638392"},
+	{"source": "considerable", "target": "Roar", "value": "0.525471662"},
+	{"source": "seductive", "target": "Roar", "value": "0.597886804"},
+	{"source": "vibrant", "target": "Roar", "value": "0.559211711"},
+	{"source": "luxurious", "target": "Roar", "value": "0.552228719"},
+	{"source": "addictive", "target": "Roar", "value": "0.718652863"},
+	{"source": "bountiful", "target": "Roar", "value": "0.710298583"},
+	{"source": "sublime", "target": "Roar", "value": "0.691164925"},
+	{"source": "hedonistic", "target": "Roar", "value": "0.690966268"},
+	{"source": "mellow", "target": "Roar", "value": "0.555257404"},
+	{"source": "cardamom", "target": "Roar", "value": "0.552929132"},
+	{"source": "brown", "target": "Roar", "value": "0.552684902"},
+	{"source": "rich", "target": "Roar", "value": "0.552538279"},
+	{"source": "mocha", "target": "Roar", "value": "0.547001978"},
+	{"source": "delicious", "target": "Roar", "value": "0.5463419"},
+	{"source": "attractive", "target": "Roar", "value": "0.545426114"},
+	{"source": "perennial", "target": "Roar", "value": "0.538408311"},
+	{"source": "nutmeg", "target": "Roar", "value": "0.523433659"},
+	{"source": "acidity", "target": "Roar", "value": "0.524283619"},
+	{"source": "russian", "target": "Roar", "value": "0.507549254"},
+	{"source": "exotic", "target": "Roar", "value": "0.507373955"},
+	{"source": "red", "target": "Roar", "value": "0.506504333"},
+	{"source": "sweet", "target": "Roar", "value": "0.501279364"},
+	{"source": "attractive", "target": "Raymond", "value": "0.633724917"},
+	{"source": "unfussy", "target": "Raymond", "value": "0.61329461"},
+	{"source": "strong", "target": "Raymond", "value": "0.588842323"},
+	{"source": "surprising", "target": "Raymond", "value": "0.579979392"},
+	{"source": "smooth", "target": "Raymond", "value": "0.573050729"},
+	{"source": "complete", "target": "Raymond", "value": "0.528735787"},
+	{"source": "perfumed", "target": "Raymond", "value": "0.528526621"},
+	{"source": "burly", "target": "Raymond", "value": "0.518406377"},
+	{"source": "smoky", "target": "Raymond", "value": "0.508886681"},
+	{"source": "dominant", "target": "Raymond", "value": "0.502422869"},
+	{"source": "lush", "target": "Raymond", "value": "0.501022567"}
+  ]
+}
