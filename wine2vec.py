@@ -144,11 +144,3 @@ df = pd.DataFrame(data=d)
 writer = pd.ExcelWriter('data.xlsx')
 df.to_excel(writer,'Sheet1')
 writer.save()
-
-print(df)
-
-wine2vec.most_similar('Heitz')
-
-wine2vec.similarity('Hall','rich')
-
-wine2vec.wv.vocab.keys()
